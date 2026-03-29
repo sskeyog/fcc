@@ -1,4 +1,5 @@
 # Note
+This repository is archived.
 This is a test project that i made to get familiar with github
 
 # fcc
